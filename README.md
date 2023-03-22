@@ -1,9 +1,6 @@
 # FunkyDlan
 <!DOCTYPE html>
 <html>
-<head>
-	<title>My Self-Page</title>
-</head>
 <body>
 	<header>
 		<h1>My Self-Page</h1>
